@@ -2,7 +2,7 @@
 
 namespace Lab2_VS
 {
-    class StringUtility
+    class jskdnc
     {
     }
 }
