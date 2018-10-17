@@ -2,11 +2,7 @@
 
 namespace Lab2_VS
 {
-    class Program
+    class StringUtility
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello from lab 2!");
-        }
     }
 }
